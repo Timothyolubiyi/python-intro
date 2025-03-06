@@ -1,10 +1,9 @@
-a=15
-b=10
-c=50
-d=a*b*c
-print(d)
-
-a=41
-b=51
-c=a+b-10
-print(c)
+a=31
+b=41
+c=51
+d=a+b+c
+print=(d)
+if d>100:
+    print("Hurray it is greater than 100" ,d)
+else:
+    ("Oh no it is less than 100" ,d)
