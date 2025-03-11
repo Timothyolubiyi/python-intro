@@ -14,3 +14,4 @@ if result>100:
 else:
     output1=result+500
     print(output1)
+    
